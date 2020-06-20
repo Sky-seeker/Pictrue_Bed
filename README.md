@@ -9,12 +9,15 @@
 ## 路径替换
 
 - 本地临时路径前缀
+
 `G:/Pictrue_Bed_Class/${filename}/`
 
 - 本地仓库路径前缀
+
 `G:/Pictrue_Bed/`
 
 - 云端路径前缀
+
 `https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/`
 
 ## 网页图片尺寸大小
@@ -36,9 +39,16 @@
 ![四叶草](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/clover.jpg '四叶草')
 
 ### 350x306 DPI:72
-`![心](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/heart.jpg '心')`
 
-![心](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/heart.jpg '心')
+`![心灵](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/mind.jpg '心灵')`
+
+![心灵](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/mind.jpg '心灵')
+
+### 380x380 DPI:96
+
+`![灵魂](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/spirit.jpg '灵魂')`
+
+![灵魂](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/spirit.jpg '灵魂')
 
 ### 512x512 DPI:200
 
