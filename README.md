@@ -44,7 +44,7 @@
 
 ![心灵](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/mind.jpg '心灵')
 
-### 380x380 DPI:96
+### 420x420 DPI:96
 
 `![灵魂](https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/spirit.jpg '灵魂')`
 
