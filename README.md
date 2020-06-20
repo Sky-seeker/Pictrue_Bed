@@ -8,16 +8,13 @@
 
 ## 路径替换
 
-- 本地临时路径前缀
-
+- 本地临时路径前缀  
 `G:/Pictrue_Bed_Class/${filename}/`
 
-- 本地仓库路径前缀
-
+- 本地仓库路径前缀  
 `G:/Pictrue_Bed/`
 
-- 云端路径前缀
-
+- 云端路径前缀  
 `https://cdn.jsdelivr.net/gh/Sky-seeker/Pictrue_Bed/img/`
 
 ## 网页图片尺寸大小
