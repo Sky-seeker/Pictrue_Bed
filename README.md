@@ -33,16 +33,21 @@
 
 ## 图片网络地址有效性测试
 
+
+- Github
+  - https://github.com/Sky-seeker/Pictrue_Bed/blob/master/img/
+  ![](https://github.com/Sky-seeker/Pictrue_Bed/blob/master/img/2020/Image_0000-00-00_00-00-00.jpg)
+
 - Github图床+CDN加速
-  - https://cdn.jsdelivr.net/gh/Sky_seeker/Pictrue_Bed/
+  - https://cdn.jsdelivr.net/gh/Sky_seeker/Pictrue_Bed/img/
   ![](https://cdn.jsdelivr.net/gh/Sky_seeker/Pictrue_Bed/img/2020/Image_0000-00-00_00-00-00.jpg)
 
 - Backblaze B2云存储
-  - https://f000.backblazeb2.com/file/Pictrue-Bed/
+  - https://f000.backblazeb2.com/file/Pictrue-Bed/img/
   ![](https://f000.backblazeb2.com/file/Pictrue-Bed/img/2020/Image_0000-00-00_00-00-00.jpg)
   
 - 云存储+自定义域名
-  - https://skyimg.ezyro.com/file/Pictrue-Bed/
+  - https://skyimg.ezyro.com/file/Pictrue-Bed/img/
   ![](https://skyimg.ezyro.com/file/Pictrue-Bed/img/2020/Image_0000-00-00_00-00-00.jpg)  
 
 
